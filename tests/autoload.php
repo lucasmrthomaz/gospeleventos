@@ -4,5 +4,5 @@ spl_autoload_register(function ($class_name) {
     require_once $class_name . '.php';
 });
 
-echo "Arquivo de autoload carregado.";
+echo ">> Arquivo de autoload carregado.";
 ?>
