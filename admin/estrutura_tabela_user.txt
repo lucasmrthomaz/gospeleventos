@@ -1,0 +1,27 @@
+-- user table
+
+user_id PK AI
+username VARCHAR
+usermail VARCHAR
+userpassword VARCHAR
+userisadmin INT     -- 0 or 1
+userisblocked INT   -- 0 or 1
+
+----------
+
+CREATE TABLE `user` (
+	`user_id` INT(11) NOT NULL AUTO_INCREMENT,
+	`username` VARCHAR(20) NOT NULL,
+	`usermail` VARCHAR(30) NOT NULL,
+	`userpassword` VARCHAR(30) NOT NULL,
+	`userisadmin` TINYINT(1) NOT NULL,
+	`userisblocked` TINYINT(1) NOT NULL,
+	PRIMARY KEY (`user_id`)
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=InnoDB
+AUTO_INCREMENT=2
+;
+
+UPDATE information in coluna
+GET 
