@@ -5,18 +5,18 @@ include_once('../config/database.php');
 $email = $_POST['email_i'];
 $senha = $_POST['senha_i'];
     
-echo 'Email: '.$email;
-echo 'Senha: '.$senha;
-
- 
+// Testa as condições de login no sistema
 if($email == 'teste@teste.com' & $senha == '1234'){
-    echo 'Login permitido com sucesso';
+    echo '<br> Login permitido com sucesso <br>';
+    
+    echo '</br>Email: '.$email;
+    echo '</br>Senha: '.$senha;
+    
+    // Redireciona para pagina principal do admin
+    sleep(1);
+    header("Location: home.php");
 }else{
-    echo 'Login nao permitido.';
+    echo '<h1>Login não permitido.</h1>.</br>';
 }
-
-}
-
-
 
 ?>

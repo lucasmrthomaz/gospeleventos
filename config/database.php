@@ -13,5 +13,5 @@ $dsn = new PDO('mysql:host=localhost;dbname=gospeleventos', $user, $pass, array(
 
 $dsn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-print_r(">> Conexao com banco de dados efetuada com sucesso. <br>");
+print_r(">> Banco de dados conectado com sucesso << <br>");
 ?>
