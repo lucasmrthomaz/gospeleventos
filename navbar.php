@@ -30,7 +30,7 @@
             Minha conta
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Fazer login</a>
+            <a class="dropdown-item" href="admin/index.php">Fazer login</a>
             <a class="dropdown-item" href="#">Meu carrinho</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item disabled" href="#">Sair</a>
