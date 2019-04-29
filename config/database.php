@@ -1,6 +1,6 @@
 <?php
 /**
- *  Conexão com o banco de dados
+ *  Conexão com o banco de dados MySQL
  *  PDO Connection for Database
  *  
   */ 
