@@ -23,4 +23,5 @@ echo '</br> Executou o insert no banco de dados com sucesso </br>';
 print_r('Os dados inseridos foram os seguintes: ');
 echo 'Nome:'.$nome.', Email:'.$email.', Empresa:'.$empresa;
 echo 'Inseriu '.$contagem_linhas.' linhas';
+
 ?>
