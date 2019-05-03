@@ -42,23 +42,19 @@
 
     <!-- Destaques -->
     <div class="well">
-      <h1><b>Ultimos eventos</b></h1>
+      <h1><b>  </b></h1>
     </div>
     <div class="row">
-      <div class="col-md-4" style="height: 300px; background-color: rgb(19, 180, 118)"></div>
-      <div class="col-md-4" style="height: 300px; background-color: dodgerblue"></div>
-      <div class="col-md-4" style="margin-bottom: 20px; height: 300px; background-color: rgb(168, 12, 182)"></div>
+      
     </div>
     <!-- fim destaques -->
 
     <!-- Destaques 2 -->
     <div class="well">
-      <h1><b>Ultimos anuncios</b></h1>
+      <h1><b>  </b></h1>
     </div>
     <div class="row">
-      <div class="col-md-4" style="height: 300px; background-color: rgb(19, 180, 118)"></div>
-      <div class="col-md-4" style="height: 300px; background-color: dodgerblue"></div>
-      <div class="col-md-4" style="margin-bottom: 20px; height: 300px; background-color: rgb(168, 12, 182)"></div>
+      
     </div>
     <!-- fim destaques -->
 
