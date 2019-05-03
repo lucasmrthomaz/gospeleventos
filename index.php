@@ -42,7 +42,7 @@
 
     <!-- Destaques -->
     <div class="well">
-      <h1><b>Destaques</b></h1>
+      <h1><b>Ultimos eventos</b></h1>
     </div>
     <div class="row">
       <div class="col-md-4" style="height: 300px; background-color: rgb(19, 180, 118)"></div>
@@ -53,7 +53,7 @@
 
     <!-- Destaques 2 -->
     <div class="well">
-      <h1><b>Novidades</b></h1>
+      <h1><b>Ultimos anuncios</b></h1>
     </div>
     <div class="row">
       <div class="col-md-4" style="height: 300px; background-color: rgb(19, 180, 118)"></div>
