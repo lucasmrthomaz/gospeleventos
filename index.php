@@ -27,6 +27,7 @@
 <body>
   <?php include_once('navbar.php'); ?>
 
+
   <div class="jumbotron">
     <h1 class="display-4">Olá, seja bem-vindo!</h1>
     <p class="lead">Você está no melhor site de eventos gospel do Brasil.
@@ -44,9 +45,8 @@
     <div class="well">
       <h1><b>  </b></h1>
     </div>
-    <div class="row">
-      
-    </div>
+    
+    
     <!-- fim destaques -->
 
     <!-- Destaques 2 -->
