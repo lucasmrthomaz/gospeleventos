@@ -45,11 +45,10 @@
         </li>
       </ul> 
       
-      <!--  -->
+      <!-- Cidade ou estado -->
       <form class="form-inline my-2 my-lg-0">
         <input style="width:450px;" class="form-control form-group-lg mr-sm-2" type="search" placeholder="Cidade ou Estado" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
-
       </form>
     </div>
   </nav>
