@@ -90,11 +90,7 @@
 
   <div class="container">
 
-
-  
-      
-
-
+<?php /*  
     <!--   -->
     <div class="well">
       <h1><b>Item 1</b></h1>
@@ -112,10 +108,15 @@
     <div class="row">
       
     </div>
-    <!--      -->
-
+    <!--  
+        -->
+?>
 
   </div>
+*/ 
+  ?>
+
+
 
 </body>
 

@@ -1,4 +1,5 @@
 
+
 <!-- Navbar  -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">
@@ -13,7 +14,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Eventos</a>
@@ -31,15 +32,24 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="admin/index.php">Fazer login</a>
-            <a class="dropdown-item" href="#">Meu carrinho</a>
+            <a class="dropdown-item" href="#">#</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item disabled" href="#">Sair</a>
           </div>
+          
+          <li class="nav-item">
+             <img src="img/usuario_black.png"></img>
+          <img src="img/carrinho_black.png"></img>
         </li>
-      </ul>
+
+        </li>
+      </ul> 
+      
+      <!--  -->
       <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="CIDADE OU ESTADO" aria-label="Search">
+        <input style="width:450px;" class="form-control form-group-lg mr-sm-2" type="search" placeholder="Cidade ou Estado" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+
       </form>
     </div>
   </nav>
