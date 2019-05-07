@@ -83,33 +83,42 @@
   </div>
 
   <div class="container">
-
-<?php /*  
-    <!--   -->
-    <div class="well">
-      <h1><b>Item 1</b></h1>
-    </div>
-    <div class="row">
-      
-    </div> 
-    
-    <!--    -->
-
-    <!--      -->
-    <div class="well">
-      <h1><b>Item 2</b></h1>
-    </div>
-    <div class="row">
-      
-    </div>
-    <!--  
-        -->
-?>
-
+  
   </div>
-*/ 
-  ?>
 
+<footer>
+<div style="width:100%; height:80px; background-color:black; color:white;"> 
+
+<div class="row">
+  <div class="col-md-4">
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+ </br>
+ evento5 evento6 evento7 evento8
+  </div>
+
+  <div class="col-md-4">
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+ </br>
+ evento5 evento6 evento7 evento8
+  </div>
+
+  <div class="col-md-4">
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+  bla bla bla bla bla bla
+ </br>
+ evento5 evento6 evento7 evento8
+  </div>
+ 
+ </div>
+ </footer>
 
 
 </body>
