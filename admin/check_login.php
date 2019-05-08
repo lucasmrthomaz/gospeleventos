@@ -9,7 +9,7 @@ $senha = $_POST['senha_i'];
     
 // Testa as condições de login no sistema
 // Depois fazer com que logue via banco de dados
-if($email == 'lucasmrthomaz@gmail.com' & $senha == '1234'){
+if($email == 'lucasmrthomaz@gmail.com' & $senha == '123456789'){
     echo '<br> Login permitido com sucesso </br>';
     
     echo '</br>Email digitado foi: '.$email;
