@@ -33,8 +33,8 @@
 </style>
 </head>
 <body>
-<?php include_once('navbar.php'); ?>
-<?php include_once('index_slider.php');?>
+<?php include_once('partials/navbar.php'); ?>
+<?php include_once('partials/index_slider.php');?>
 
 
   <div class="jumbotron">
@@ -52,7 +52,7 @@
   
   </div>
 
-<?php include_once('index_footer.php'); ?>
+<?php include_once('partials/index_footer.php'); ?>
 </body>
 
 </html>

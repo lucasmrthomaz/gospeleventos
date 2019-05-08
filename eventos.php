@@ -22,7 +22,7 @@
 </head>
 
 <body>
-<?php include_once('navbar.php'); ?>
+<?php include_once('partials/navbar.php'); ?>
 
 <div class="jumbotron">
     <h1 class="display-4">Eventos</h1>

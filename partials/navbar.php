@@ -37,7 +37,7 @@
           </div>
           
           <li class="nav-item">
-             <img src="img/usuario_black.png"></img>
+             <a href="admin/index.php"><img src="img/usuario_black.png"></img></a>
           <img src="img/carrinho_black.png"></img>
         </li>
 
