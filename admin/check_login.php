@@ -1,5 +1,5 @@
 <?php
-
+//
 // Importa configurações e banco de dados
 include_once('../config/config.php');
 
