@@ -19,40 +19,31 @@
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
   <script src='js/main.js'></script>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d">
-  </link>
-
-  <!-- CSS do Slider -->
-<link href="css/custom.css" rel="stylesheet">
-<!-- Importa o CSS do Slider principal -->
-<link href="css/index_footer.css" rel="stylesheet">
-
-<style>
-
-</style>
 </head>
+
 <body>
 <?php include_once('partials/navbar.php'); ?>
-<?php include_once('partials/index_slider.php');?>
 
-
-  <div class="jumbotron">
-    <h1 class="display-4">Olá, seja bem-vindo!</h1>
-    <p class="lead">Você está no melhor site de eventos gospel do Brasil.
-      </br> Aqui você econtrará ingressos, eventos e muito mais!
+<div class="jumbotron">
+    <h1 class="display-4">Comprar seu ingresso</h1>
+    <p class="lead">
+      Aqui você pode comprar seus ingressos com tranquilidade e comodidade de sua casa. </br>
+      Temos os melhores preços para você que já é cadastrado no portal! 
     </p>
     <hr class="my-4">
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="evento.php" role="button">Conferir eventos</a>
+      <a class="btn btn-primary btn-lg" href="index.php" role="button">Voltar a inicial</a>
     </p>
   </div>
 
   <div class="container">
-  
+    
   </div>
 
-<?php include_once('partials/index_footer.php'); ?>
+
 </body>
 
 </html>
+
+
+

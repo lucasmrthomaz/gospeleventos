@@ -28,10 +28,10 @@
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Eventos neste fim de semana</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i></a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i></a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i></a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i></a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Por perto</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>No estado</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Na cidade</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>No bairro</a></li>
 						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i></a></li>
 					</ul>
 				</div>

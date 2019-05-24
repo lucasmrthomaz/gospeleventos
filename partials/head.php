@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <head>
   <meta charset='utf-8'>
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -19,40 +16,7 @@
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
   <script src='js/main.js'></script>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d">
-  </link>
-
-  <!-- CSS do Slider -->
-<link href="css/custom.css" rel="stylesheet">
-<!-- Importa o CSS do Slider principal -->
-<link href="css/index_footer.css" rel="stylesheet">
-
-<style>
-
-</style>
+ 
+  <link href="css/custom.css" rel="stylesheet">
+  <link href="css/index_footer.css" rel="stylesheet">
 </head>
-<body>
-<?php include_once('partials/navbar.php'); ?>
-<?php include_once('partials/index_slider.php');?>
-
-
-  <div class="jumbotron">
-    <h1 class="display-4">Olá, seja bem-vindo!</h1>
-    <p class="lead">Você está no melhor site de eventos gospel do Brasil.
-      </br> Aqui você econtrará ingressos, eventos e muito mais!
-    </p>
-    <hr class="my-4">
-    <p class="lead">
-      <a class="btn btn-primary btn-lg" href="evento.php" role="button">Conferir eventos</a>
-    </p>
-  </div>
-
-  <div class="container">
-  
-  </div>
-
-<?php include_once('partials/index_footer.php'); ?>
-</body>
-
-</html>
